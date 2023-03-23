@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30403406629",
+    "project_id": "wattpad-app-f0078",
+    "storage_bucket": "wattpad-app-f0078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30403406629:android:5ad6b88035c1f3530e08cc",
+        "android_client_info": {
+          "package_name": "com.example.wattpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30403406629-9s8eelrrglgpiqr5ofl2hi8jam9cj3pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVseiugLljxzSdRedaCI_zGTjzHVqTMbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30403406629-9s8eelrrglgpiqr5ofl2hi8jam9cj3pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
